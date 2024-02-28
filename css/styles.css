@@ -77,7 +77,12 @@ ul {
   list-style: none;
   display: flex;
   flex-direction: row;
+  justify-content: space-between;
   flex-wrap: wrap;
+}
+
+li{
+  border: solid black 0.5px;
 }
 
 
