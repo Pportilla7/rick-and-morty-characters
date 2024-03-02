@@ -55,9 +55,7 @@ function getPersonajes(url_def){
 
 function ContenedorLi(element,aux){
     crearContenedor(aux);
-    
     darValor(element,aux);
-    
 }
 
 function crearContenedor(aux){
